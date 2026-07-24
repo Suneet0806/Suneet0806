@@ -20,11 +20,11 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="ssuneet0806@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://my-portfolio-six-orpin-88.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
@@ -150,10 +150,6 @@ const suneet = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Suneet0806&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suneet0806&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 <br>
@@ -171,16 +167,6 @@ const suneet = {
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suneet0806&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Suneet0806&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </div>
 
@@ -224,29 +210,19 @@ const suneet = {
 
 # 📫 Connect With Me
 
+<h2>📬 Connect With Me</h2>
+
 <p align="center">
-
-<a href="https://linkedin.com/in/suneet-shreehari-6057a62bb">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/Suneet0806">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
+  <a href="https://linkedin.com/in/suneet-shreehari-6057a62bb" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+  <a href="https://github.com/Suneet0806" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  </a>
 </p>
-
----
-
-<div align="center">
 
 ## 💭 Favorite Quote
 
