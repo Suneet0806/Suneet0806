@@ -1,12 +1,36 @@
+<!-- ========================================================= -->
+<!--                  GitHub Profile README                     -->
+<!-- ========================================================= -->
+
 <div align="center">
 
 # 👋 Hi, I'm Suneet Shreehari
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;MERN+Stack+Developer;Open+Source+Contributor;Building+Projects+That+Matter;Always+Learning+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Undergraduate;Full+Stack+Developer;Open+Source+Contributor;Building+Projects+That+Matter;Always+Learning+Something+New+🚀" />
 
-### 🚀 AI/ML Undergraduate • Full Stack Developer • Open Source Enthusiast
+### AI & Machine Learning Student • MERN Stack Developer • Open Source Contributor
 
-<img src="https://komarev.com/ghpvc/?username=Suneet0806&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<p>
+
+<a href="https://github.com/Suneet0806">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/suneet-shreehari-6057a62bb">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Suneet0806&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -14,65 +38,93 @@
 
 # 💫 About Me
 
-```cpp
-class Suneet {
+```typescript
+const suneet = {
 
-public:
+    location: "India",
 
-    string education = "B.Tech CSE (AI & ML) @ VIT-AP University";
+    education:
+        "B.Tech Computer Science (AI & ML) @ VIT-AP University",
 
-    vector<string> interests = {
+    interests: [
         "Full Stack Development",
         "Artificial Intelligence",
         "Machine Learning",
         "Open Source"
-    };
+    ],
 
-    vector<string> currentlyLearning = {
-        "Advanced React",
+    currentlyLearning: [
+        "React",
         "Backend Development",
         "System Design",
-        "DSA"
-    };
+        "Data Structures & Algorithms"
+    ],
 
-    string goal =
-    "Build software that impacts millions.";
-};
+    askMeAbout: [
+        "Java",
+        "Python",
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "Git"
+    ],
+
+    motto:
+        "Build. Learn. Improve. Repeat."
+}
 ```
+
+---
+
+# 🚀 What I'm Currently Working On
+
+- 🌱 Strengthening my MERN Stack skills
+- 🤖 Exploring AI & Machine Learning
+- 💻 Building real-world full stack applications
+- 🌍 Contributing to Open Source
+- 📚 Solving DSA problems consistently
 
 ---
 
 # ⚡ Tech Stack
 
-## Languages
+### Programming Languages
 
-<p align="center">
+<p>
 
 <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,c,html,css,sql"/>
 
 </p>
 
-## Frameworks
+### Frontend
 
-<p align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express"/>
-
-</p>
-
-## Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql"/>
+<img src="https://skillicons.dev/icons?i=react,vite"/>
 
 </p>
 
-## Tools
+### Backend
 
-<p align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+### Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
 
 </p>
 
@@ -80,29 +132,17 @@ public:
 
 # 🚀 Featured Projects
 
-## 🛒 Grovance
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🛒 **Grovance** | Student marketplace for buying, selling and renting pre-owned products | React • Express • PostgreSQL |
+| 📊 **Student Performance Predictor** | Machine Learning model for predicting academic performance | Python • Scikit-learn • Pandas |
+| 🎯 **Projectile Motion Simulator** | Interactive simulation created during a hackathon | JavaScript |
 
-Marketplace platform where students can buy, sell and rent pre-owned items.
+### Repository Links
 
-**Stack**
-
-React • Node.js • Express • PostgreSQL
-
----
-
-## 📊 Student Performance Predictor
-
-Machine Learning model for predicting students' academic performance.
-
-**Stack**
-
-Python • Scikit-Learn • Pandas
-
----
-
-## 🎯 Projectile Motion Simulator
-
-Interactive simulator built for hackathons.
+- 🔗 Grovance → YOUR_GROVANCE_REPO
+- 🔗 Student Performance Predictor → YOUR_STUDENT_PREDICTOR_REPO
+- 🔗 Projectile Motion Simulator → YOUR_PROJECTILE_REPO
 
 ---
 
@@ -110,9 +150,9 @@ Interactive simulator built for hackathons.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Suneet0806&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Suneet0806&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suneet0806&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suneet0806&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -120,17 +160,7 @@ Interactive simulator built for hackathons.
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suneet0806&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Suneet0806&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Suneet0806&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -146,25 +176,53 @@ Interactive simulator built for hackathons.
 
 ---
 
-# 🌟 Open Source
+# 🏆 GitHub Trophies
 
-- ⭐ GirlScript Summer of Code 2026 Contributor
-- 🚀 Multiple Pull Requests Successfully Merged
-- 💙 Love collaborating on community projects
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Suneet0806&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
 
 ---
 
-# 🎯 Current Goals
+# 🌟 Open Source
 
-- ✅ Master the MERN Stack
-- ✅ Strengthen Data Structures & Algorithms
-- ✅ Build AI-powered Full Stack Applications
-- ✅ Contribute consistently to Open Source
+- 🌍 GirlScript Summer of Code 2026 Contributor
+- 🚀 Multiple Pull Requests Successfully Merged
+- 💙 Passionate about collaborative development
+- 📚 Continuous learner
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Become an excellent Full Stack Developer
+- ✅ Master Backend Development
+- ✅ Build AI-powered applications
+- ✅ Improve DSA skills
+- ✅ Contribute to more Open Source projects
 - 🎯 Secure a Software Engineering Internship
 
 ---
 
-# 🌐 Connect With Me
+# 📚 Currently Learning
+
+```text
+███████████████░░░░░  React
+
+████████████░░░░░░░░  Backend Development
+
+██████████░░░░░░░░░░  System Design
+
+███████████░░░░░░░░░  Data Structures & Algorithms
+
+██████░░░░░░░░░░░░░░  Cloud Computing
+```
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -172,7 +230,13 @@ Interactive simulator built for hackathons.
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Suneet0806">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -184,20 +248,16 @@ Interactive simulator built for hackathons.
 
 <div align="center">
 
-## 💭 Quote
+## 💭 Favorite Quote
 
-*"Code is like humor. When you have to explain it, it's bad."*
-
-— Cory House
-
-</div>
+> **"First, solve the problem. Then, write the code."**
 
 ---
 
-<div align="center">
+### ⭐ Thanks for visiting my profile!
 
-### ⭐ Thanks for visiting!
+**If you like my work, don't forget to ⭐ my repositories.**
 
-If you enjoy my work, consider ⭐ starring my repositories!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>
 
 </div>
