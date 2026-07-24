@@ -156,6 +156,8 @@ const suneet = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Suneet0806&theme=tokyonight&hide_border=true"/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Suneet0806&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
 </div>
 
 ---
