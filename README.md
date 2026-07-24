@@ -30,8 +30,6 @@
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Suneet0806&style=for-the-badge&color=0e75b6"/>
-
 </div>
 
 ---
