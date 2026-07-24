@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Suneet Shreehari
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Undergraduate;Full+Stack+Developer;Open+Source+Contributor;Building+Projects+That+Matter;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Undergraduate;Full+Stack+Developer;Open+Source+Contributor;Building+Projects+That+Matter;Always+Learning+Something+New+" />
 
 ### AI & Machine Learning Student • MERN Stack Developer • Open Source Contributor
 
