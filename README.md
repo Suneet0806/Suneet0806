@@ -214,7 +214,7 @@ const suneet = {
   <a href="https://linkedin.com/in/suneet-shreehari-6057a62bb" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="ssuneet0806@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
   <a href="https://github.com/Suneet0806" target="_blank">
