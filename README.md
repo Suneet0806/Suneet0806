@@ -154,7 +154,7 @@ const suneet = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Suneet0806&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Suneet0806&theme=github-dark"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suneet0806&theme=github_dark" />
 
