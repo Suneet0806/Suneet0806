@@ -138,9 +138,9 @@ const suneet = {
 
 ### Repository Links
 
-- 🔗 Grovance → YOUR_GROVANCE_REPO
-- 🔗 Student Performance Predictor → YOUR_STUDENT_PREDICTOR_REPO
-- 🔗 Projectile Motion Simulator → YOUR_PROJECTILE_REPO
+- 🔗 Grovance → https://github.com/Suneet0806/Grovance-Website
+- 🔗 Student Performance Predictor → https://github.com/Suneet0806/Student_Performance_Predictor
+- 🔗 Smart Braking System based on Driver Monitoring → https://github.com/Suneet0806/Smart-Braking-System-Based-on-Driver-Monitoring
 
 ---
 
